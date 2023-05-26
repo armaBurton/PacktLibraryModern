@@ -1,0 +1,12 @@
+D:\001 work\projects\c#\cs11dotnet7\Chapter05\classlib\PacktLibraryModern\bin\Debug\net7.0\PacktLibraryModern.deps.json
+D:\001 work\projects\c#\cs11dotnet7\Chapter05\classlib\PacktLibraryModern\bin\Debug\net7.0\PacktLibraryModern.dll
+D:\001 work\projects\c#\cs11dotnet7\Chapter05\classlib\PacktLibraryModern\bin\Debug\net7.0\PacktLibraryModern.pdb
+D:\001 work\projects\c#\cs11dotnet7\Chapter05\classlib\PacktLibraryModern\obj\Debug\net7.0\PacktLibraryModern.csproj.AssemblyReference.cache
+D:\001 work\projects\c#\cs11dotnet7\Chapter05\classlib\PacktLibraryModern\obj\Debug\net7.0\PacktLibraryModern.GeneratedMSBuildEditorConfig.editorconfig
+D:\001 work\projects\c#\cs11dotnet7\Chapter05\classlib\PacktLibraryModern\obj\Debug\net7.0\PacktLibraryModern.AssemblyInfoInputs.cache
+D:\001 work\projects\c#\cs11dotnet7\Chapter05\classlib\PacktLibraryModern\obj\Debug\net7.0\PacktLibraryModern.AssemblyInfo.cs
+D:\001 work\projects\c#\cs11dotnet7\Chapter05\classlib\PacktLibraryModern\obj\Debug\net7.0\PacktLibraryModern.csproj.CoreCompileInputs.cache
+D:\001 work\projects\c#\cs11dotnet7\Chapter05\classlib\PacktLibraryModern\obj\Debug\net7.0\PacktLibraryModern.dll
+D:\001 work\projects\c#\cs11dotnet7\Chapter05\classlib\PacktLibraryModern\obj\Debug\net7.0\refint\PacktLibraryModern.dll
+D:\001 work\projects\c#\cs11dotnet7\Chapter05\classlib\PacktLibraryModern\obj\Debug\net7.0\PacktLibraryModern.pdb
+D:\001 work\projects\c#\cs11dotnet7\Chapter05\classlib\PacktLibraryModern\obj\Debug\net7.0\ref\PacktLibraryModern.dll
