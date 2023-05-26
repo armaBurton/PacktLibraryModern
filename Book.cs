@@ -1,6 +1,6 @@
+using System.Diagnostics.CodeAnalysis;
+
 namespace Packt.Shared;
-
-
 
 public class Book{
   public required string? Isbn { get; set; }
@@ -9,6 +9,8 @@ public class Book{
   public int PageCount { get; set; }
 
   public Book(){}
+
+  [SetsRequiredMembers]
   public Book(string? isbn, string? title){
     Isbn = isbn;
     Title = title;
