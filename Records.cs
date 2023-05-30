@@ -6,3 +6,7 @@ public class ImmutablePerson{
   public string? LastName { get; init; }
 }
 
+public record ImmutableVehicle{
+  public string? Color  { get; init; }
+  public string? Brand { get; init; }
+}
